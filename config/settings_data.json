@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "layout_body": "default",
+    "layout_body": "custom_width",
     "mobile_menu": "default",
     "collection_layout": "default",
     "product_page_layout": "default",
