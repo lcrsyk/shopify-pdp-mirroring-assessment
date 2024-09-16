@@ -819,6 +819,9 @@
                                                 share_layout: check_show_share
                                             %}
                                         </div>
+                                    {%- when 'devices' -%}
+                                        {% assign devices = product.metafields.compatible_devices.value %}
+                                        {% render 'product-accordion', heading: block.settings.heading, heading_icon: 'circle-check', items: devices %}
                                     {%- when 'meta' -%}
                                         {%- liquid 
                                             assign show_review = block.settings.show_review
