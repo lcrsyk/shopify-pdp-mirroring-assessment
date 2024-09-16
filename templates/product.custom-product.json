@@ -140,8 +140,8 @@
       ],
       "settings": {
         "container": "default",
-        "padding_full_width": 0,
-        "show_sticky_info": true,
+        "padding_full_width": 50,
+        "show_sticky_info": false,
         "mg_top_desktop": 0,
         "mg_top_tablet": 0,
         "mg_top_mobile": 0,
