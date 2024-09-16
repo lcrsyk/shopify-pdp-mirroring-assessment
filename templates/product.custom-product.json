@@ -155,7 +155,7 @@
         "main_image_show_zoom_icon_mb": true,
         "main_image_position": "left",
         "main_image_layout": "1",
-        "main_image_show_custom_cursor": true,
+        "main_image_show_custom_cursor": false,
         "count_color": "#191919",
         "icon_color": "#000000",
         "show_thumbnail_mobile": true,
