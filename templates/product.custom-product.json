@@ -140,7 +140,7 @@
       ],
       "settings": {
         "container": "default",
-        "padding_full_width": 50,
+        "padding_full_width": 60,
         "show_sticky_info": false,
         "mg_top_desktop": 0,
         "mg_top_tablet": 0,
