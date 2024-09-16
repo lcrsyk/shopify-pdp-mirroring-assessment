@@ -1,0 +1,8 @@
+.product {
+    &-title {
+        font-family: var(--base-font-family);
+        font-size: var(--fontsize-text);
+        margin: 0 0 .5em;
+        line-height: 1.2;
+    }
+}

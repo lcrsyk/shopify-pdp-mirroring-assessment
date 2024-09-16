@@ -1,0 +1,15 @@
+:root {
+    @each $key, $value in $fontFamily {
+        --#{$key}-font-family: #{$value};
+    }
+
+    @each $key, $value in $fontSize {
+        --#{$key}-text-size: #{$value};
+    }
+
+
+}
+
+h1 {
+    font-size: var(--larger-text-size);
+}

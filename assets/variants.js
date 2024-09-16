@@ -24,6 +24,7 @@ class VariantSelects extends HTMLElement {
     }
     
     onVariantChange(event) {
+        console.log("variant changed")
         this.updateOptions();
         this.updateMasterId();
         this.updatePickupAvailability();
